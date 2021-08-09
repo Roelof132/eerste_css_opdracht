@@ -1,0 +1,31 @@
+h1 {
+  color: blue;
+}
+
+body {
+  color: red;
+}
+
+.black-border {
+  border: 5px solid purple;
+}
+
+#green-background {
+  background-color: green;
+}
+
+h1 {
+  margin-bottom: 25px;
+}
+
+  p{
+    margin-bottom: 25px;
+  }
+
+  nav{
+    margin-bottom: 25px;
+  }
+
+  aside{
+    padding: 30px;
+  }
